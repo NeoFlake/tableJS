@@ -1,0 +1,8 @@
+Regarder les createDocumentFragment
+Ajoute d'autres colonnes
+Pouvoir ajouter des lignes avec un formulaire
+Pouvoir supprimer des lignes
+Pouvoir les réordonner
+Recharger la page et les modifications
+BACK: Aller chercher les infos sur une API.
+Faire des mises à jour sans raffraichissement
